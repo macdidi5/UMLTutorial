@@ -9,7 +9,7 @@ UML...
 # 目錄
 
 * [UML超新手入門（1）UML概論](http://www.codedata.com.tw/java/umltutorial-01/)
-* UML超新手入門（2）類別圖型 - 類別節點
+* [UML超新手入門（2）類別圖型 - 類別節點](http://www.codedata.com.tw/java/umltutorial-02/)
 * UML超新手入門（3）類別圖型 - 結合關係
 * UML超新手入門（4）套件圖型
 * UML超新手入門（5）物件圖型
