@@ -12,9 +12,9 @@ UML...
 * [UML超新手入門（2）類別圖型 - 類別節點](http://www.codedata.com.tw/java/umltutorial-02/)
 * [UML超新手入門（3）類別圖型 - 結合關係](http://www.codedata.com.tw/java/umltutorial-03/)
 * [UML超新手入門（4）套件圖型](http://www.codedata.com.tw/java/umltutorial-04/)
-* UML超新手入門（5）物件圖型
-* UML超新手入門（6）元件圖型
-* UML超新手入門（7）佈署圖型
+* [UML超新手入門（5）物件圖型](http://www.codedata.com.tw/java/umltutorial-05/)
+* [UML超新手入門（6）元件圖型](http://www.codedata.com.tw/java/umltutorial-06/)
+* [UML超新手入門（7）佈署圖型](http://www.codedata.com.tw/java/umltutorial-07/)
 * UML超新手入門（8）循序圖型
 * UML超新手入門（9）合作圖型
 * UML超新手入門（10）狀態圖型
